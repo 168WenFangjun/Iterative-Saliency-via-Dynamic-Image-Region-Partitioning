@@ -17,7 +17,9 @@ First,  the  model  proposed  solved  three  problems which  is  caused  by  sta
 
 Second,  saliency  classification  difference  is  iterated  on saliency  maps  generating  by  dynamic  image  region  partitioning.  This makes  the  saliency  results  more  robust.  To  get  a  more  robust  result, the  dynamic  image  partitioning  is  operated  on  an  image  in  four directions  (i.e.,  left  to  right,  right  to  left,  top  to  bottom,  bottom  to  top). 
 
-Third,  the  final  saliency  map  is  generated  by  combining  four  saliency maps  based  on  four  direction  scanning.  The  four  direction combination  enables  the  proposed  method  to  uniformly  highlight  the salient  object  and  simultaneously  suppress  the  background  effectively. Extensive  experiments  on  two  large  dataset  demonstrate  that  the proposed  method  performs  favorably  against  the  classic  methods  in terms of  accuracy  and efficiency. Index  Terms—Dynamic  image  region  partitioning,  iterating, dynamic  background,  four  direction  scanning,  saliency  map. 
+Third,  the  final  saliency  map  is  generated  by  combining  four  saliency maps  based  on  four  direction  scanning.  The  four  direction combination  enables  the  proposed  method  to  uniformly  highlight  the salient  object  and  simultaneously  suppress  the  background  effectively. Extensive  experiments  on  two  large  dataset  demonstrate  that  the proposed  method  performs  favorably  against  the  classic  methods  in terms of  accuracy  and efficiency. 
+
+Index  Terms—Dynamic  image  region  partitioning,  iterating, dynamic  background,  four  direction  scanning,  saliency  map. 
 
 In  this  letter,  we  present  a  bottom-up  object  level  saliency detection  model  by  exploiting  dynamic  image  region  partitioning, iterating  saliency  difference  and  four  direction  scanning. 
 
