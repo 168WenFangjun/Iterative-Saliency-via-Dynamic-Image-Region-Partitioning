@@ -1,6 +1,5 @@
 # Iterative-Saliency-via-Dynamic-Image-Region-Partitioning
 
-file:///home/macuser/Videos/iter-saliency-paper.png
 
 Vison Old, Vision New. 
 
