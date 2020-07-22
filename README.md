@@ -1,5 +1,7 @@
 # Iterative-Saliency-via-Dynamic-Image-Region-Partitioning
 
+file:///home/macuser/Videos/iter-saliency-paper.png
+
 Vison Old, Vision New. 
 
 After reading this paper , you will get new insights of computer vision. 
