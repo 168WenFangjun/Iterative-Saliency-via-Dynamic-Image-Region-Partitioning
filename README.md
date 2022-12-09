@@ -7,12 +7,14 @@ After reading this paper , you will get new insights of computer vision.
 
 For more information, please contact with me via gmail [168fangjunwen@gmail.com].
 
-<div> <a href="[168fangjunwen@gmail.com]">Email</a></div>
 
 # Features
+<div style="text-align:center;">
 ![image](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/code-for-my-graduate-paper/test/3_95_95850.jpg)
 ![image](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/code-for-my-graduate-paper/saliencymap/3_95_95850.png)
 
+ </div>
+ 
 Abstract
 
 A  novel  object  level  saliency  model  is  proposed  in  this letter  via  iterating  saliency  classification  difference  on  dynamic  image region  partitioning.  
