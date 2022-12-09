@@ -18,7 +18,7 @@ For more detail information, please contact with me via gmail [168fangjunwen@gma
 - image segmentation
 
  
-Abstract
+# Abstract
 
 A  novel  object  level  saliency  model  is  proposed  in  this letter  via  iterating  saliency  classification  difference  on  dynamic  image region  partitioning.  
 
