@@ -9,11 +9,10 @@ For more information, please contact with me via gmail [168fangjunwen@gmail.com]
 
 
 # Features
-<div>
+
 ![image](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/code-for-my-graduate-paper/test/3_95_95850.jpg)
 ![image](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/code-for-my-graduate-paper/saliencymap/3_95_95850.png)
 
- </div>
  
 Abstract
 
