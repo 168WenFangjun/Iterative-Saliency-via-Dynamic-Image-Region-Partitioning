@@ -1,4 +1,4 @@
-### Iterative-Saliency-via-Dynamic-Image-Region-Partitioning
+# Iterative-Saliency-via-Dynamic-Image-Region-Partitioning
 
 # Introduction 
 
