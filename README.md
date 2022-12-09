@@ -13,6 +13,11 @@ For more detail information, please contact with me via gmail [168fangjunwen@gma
 
 ![image](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/code-for-my-graduate-paper/test/3_95_95850.jpg)
 ![image](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/code-for-my-graduate-paper/saliencymap/3_95_95850.png)
+
+<div style="display:flex;"> 
+ <div>src image </div>
+ <div>saliency image</div>
+ </div>
 - computer vision 
 - image saliency 
 - image segmentation
