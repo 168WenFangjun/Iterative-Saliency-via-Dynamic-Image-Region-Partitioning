@@ -8,12 +8,10 @@ After reading this paper , you will get new insights of computer vision.
 
 For more detail information, please contact with me via gmail [168fangjunwen@gmail.com].
 
-
 # Features
 
 ![image](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/code-for-my-graduate-paper/test/3_95_95850.jpg)
 ![image](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/code-for-my-graduate-paper/saliencymap/3_95_95850.png)
-
 
 - computer vision 
 - image saliency 
@@ -43,10 +41,6 @@ Thirdly,  the  four  direction  scanning  makes  our algorithm  more  robust.
 Saliency  maps  on  a  large  public  dataset demonstrate  that  the  proposed  method  can  highlight  the  whole object  region  uniformly  and  suppress  the  background  region effectively.  
 
 In  addition,  the  proposed  method  performs  favorably against  the  classic  methods  in  accuracy,  which  shows  that  the proposed  dynamic  image  region  partitioning,  iterating  saliency classification  results  and  four  direction  scanning  are  useful  for saliency  detection.  In  the  future  work,  we  will  investigate  a  more complicated  classification  strategy  to  boost  classification  results  at different  scales  and  explore  more  applications  of  dynamic  image region  partitioning  to  other  saliency  algorithms. 
-
-
-
-
 
 
 
