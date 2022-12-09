@@ -15,7 +15,7 @@ For more detail information, please contact with me via gmail [168fangjunwen@gma
 
 - computer vision 
 - image saliency 
-- image segmentation
+- image segmentation [image superpixel segmentation demo](http://aizaozhidao.vip/image-painter)
 
  
 # Abstract
